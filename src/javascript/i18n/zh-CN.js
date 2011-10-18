@@ -1,7 +1,7 @@
-// Simpilied Chinese
+// Simpilfied Chinese
 plupload.addI18n({
    'Select files' : '选择文件',
-   'Add files to the upload queue and click the start button.' : 'ファイルをアップロードキューに追加してスタートボタンをクリックしてください',
+   'Add files to the upload queue and click the start button.' : '把文件加入上传序列，然后点击开始按钮',
    'Filename' : '文件名',
    'Status' : '状态',
    'Size' : '大小',
